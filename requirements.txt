@@ -1,0 +1,5 @@
+gradio
+numpy
+tensorflow
+keras-tuner
+biopython
